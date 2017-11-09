@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509622501 source:c:\users\anthony lamour\documents\ludus academie\c\pendue\main.c
+	<stdio.h>
+	<stdlib.h>
+
